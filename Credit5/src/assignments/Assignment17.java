@@ -17,6 +17,7 @@ public class Assignment17 {
 
 	public static void main(String[] args) 
 	{
+		//
 		@SuppressWarnings("resource") // suppresses warning from leaking "input variable".
 		Scanner input = new Scanner(System.in); // Calls in scanner.
 		
