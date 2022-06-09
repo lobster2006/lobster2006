@@ -1,6 +1,6 @@
 /*
 
-Program: ${FinalAssignment}.java          Date: ${6/8/2022}
+Program: ${FinalProject2}.java          Date: ${6/8/2022}
 
 
 Author: Tarun Jaikrishnan
